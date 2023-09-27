@@ -1,0 +1,9 @@
+[submodule "nanoflownet-cnns"]
+	path = nanoflownet-cnns
+	url = https://github.com/gemenerik/nanoflownet-cnns
+[submodule "gap8-obstacle-avoidance"]
+	path = gap8-obstacle-avoidance
+	url = https://github.com/gemenerik/gap8-obstacle-avoidance
+[submodule "crazyflie-optical-flow-obstacle-avoidance-app"]
+	path = crazyflie-optical-flow-obstacle-avoidance-app
+	url = https://github.com/gemenerik/crazyflie-optical-flow-obstacle-avoidance-app
