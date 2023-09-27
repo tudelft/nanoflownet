@@ -19,3 +19,7 @@ Please cite us as follows:
   organization={IEEE}
 }
 ```
+
+## Usage
+Initialize all submodules with `git submodule update --init --recursive`
+Review the respective repositories for further instructions
